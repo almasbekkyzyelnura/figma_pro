@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+
+body {
+    font-family: "Open Sans", sans-serif;
+}
+.hero{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 190px;
+}
+.hero .hero-text{}
+.hero .hero-text h1{
+    font-size: 64px;
+    margin-bottom: 50px;
+}
+.hero .hero-text p{
+    width: 538px;
+    font-size: 14px;
+    line-height: 21px;
+    margin-bottom: 50px;
+}
+.hero .hero-img{}
+.hero .hero-img img{}
+.hero .hero-btn{
+    background: #D1A954;
+    font-size: 18px;
+    width: 160px;
+    height: 50px;
+    border: none;
+    cursor: pointer;
+    color: #fff;
+    text-transform: uppercase;
+}
