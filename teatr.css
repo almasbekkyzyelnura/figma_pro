@@ -1,18 +1,20 @@
-h1{
+.teatr h1 {
     font-size: 20px;
     padding-top: 50px;
-    position: relative;
-    left: 260px;
-    
+    /* position: relative; */
+    /* left: 260px; */
+
 }
-h3{
-    position: relative;
+
+.teatr h3 {
+    /* position: relative; */
     font-size: 100px;
-   padding-top: 150px;
-   left: 260px;
+    padding-top: 150px;
+    /* left: 260px; */
 }
-button{
-    position: relative;
+
+.teatr button {
+    /* position: relative; */
     background: rgb(232, 213, 104);
     width: 160px;
     height: 50px;
