@@ -4,8 +4,8 @@
     min-height: 100vh;
 }
 .rate{
-    position: relative;
-    left: 450px;
+    /* position: relative; */
+    /* left: 450px; */
     padding-top:400px;
 }
 #xgr{
@@ -19,11 +19,12 @@ span{
 h4{
     font-size: 38px;
     text-transform: uppercase;
-    margin-left: 750px;
+    /* margin-left: 750px; */
     font-weight: 50;
     
 }
-.img{
-    margin-left: 450px;
+img{
+    /* margin-left: 450px; */
+    width: 100%;
     
 }
