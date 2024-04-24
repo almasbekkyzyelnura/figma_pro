@@ -1,0 +1,28 @@
+.h-flex{
+    display: flex;
+    align-items: center;
+    padding: 36px 0px;
+
+}
+.h-flex .nav{
+    display: flex;
+    gap: 63px;
+
+}
+.h-flex .nav a {
+    color: #fff;
+    font-size: 18px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.h-flex .phone{
+    color: #fff;
+    border-bottom: 2px solid #D1A954    ;
+    margin-left: auto;
+}
+#eli {
+    background: url("./img/Rectangle\ 3.png");
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

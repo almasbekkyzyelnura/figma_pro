@@ -1,0 +1,30 @@
+#sin{
+   background-color: rgba(0, 0, 0, 0.506);
+    min-width: 100vh;
+    min-height: 100vh;
+}
+.rate{
+    /* position: relative; */
+    /* left: 450px; */
+    padding-top:400px;
+}
+#xgr{
+    background-color: rgba(0, 0, 0, 0.398);
+    min-width: 100vh;
+    min-height: 100vh;
+}
+span{
+    color: gold;
+}
+h4{
+    font-size: 38px;
+    text-transform: uppercase;
+    /* margin-left: 750px; */
+    font-weight: 50;
+    
+}
+img{
+    /* margin-left: 450px; */
+    width: 100%;
+    
+}
